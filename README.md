@@ -10,52 +10,78 @@
 
 ## About Me
 
-I’m a software engineering student with a strong interest in **systems**, **AI-driven products**, and **scalable backend architecture**.  
-I enjoy building clean, reliable software and learning how real systems behave in production.
+I’m a Computer Science & Mathematics student at the **University of Toronto** with experience building **production-grade backend systems**, **AI-driven tools**, and **full-stack applications**.
 
-Currently focused on:
-- Writing maintainable, production-quality code  
-- Backend systems & APIs  
-- Practical AI tooling (LLMs, automation, applied ML)
+I enjoy working close to the system layer — APIs, data models, infrastructure — and care deeply about writing clean, maintainable software that scales beyond demos.
+
+---
+
+## Experience
+
+### Junior Software Developer — Wolf Advanced Technology
+- Built and maintained **.NET REST APIs** and **Blazor-based internal tools**
+- Designed **SQL data models** supporting analytics, reporting, and automation
+- Implemented a **context-aware AI service** using the OpenAI API to assist engineers with drafting and reviewing product requirements
+
+### Software Developer (AI / ML) — Enactus UTM
+- Prototyped a **real-time sign language translation system**
+- Experimented with **Conv3D and RNN architectures**, balancing accuracy, latency, and deployability
+- Built and trained models using **PyTorch and TensorFlow**, integrated into **Azure-based pipelines**
+- Communicated model behavior and limitations to both technical and non-technical stakeholders
+
+---
+
+## Selected Projects
+
+### Agentic Internal Docs Assistant
+A **RAG-based agentic system** for answering questions over internal documentation.
+
+- Built with **LangGraph + LangChain** for stateful reasoning and conditional routing  
+- Implemented ingestion, chunking, embeddings, and semantic retrieval using **Chroma**
+- Designed a routing agent to choose between retrieval, clarification, or direct responses
+- Exposed via **FastAPI** for scalable, API-first deployment
+
+### Trip Split
+A collaborative expense-tracking web application.
+
+- Built with **React, Node.js, MongoDB**, deployed on **Google Cloud**
+- Automated expense reconciliation and reduced manual coordination
+- Integrated **Google Maps API** and authentication for secure multi-user access
+
+### EventLink
+A desktop application for university event discovery and registration.
+
+- Integrated the **Eventbrite API**
+- Applied **SOLID principles** and design patterns (Strategy, Observer, Builder)
+- Achieved **97% unit test coverage** using JUnit
 
 ---
 
 ## Tech Stack
 
 **Languages**
-- Java, TypeScript, Python, C#, Swift
+- Python, Java, C#, C, SQL, TypeScript, JavaScript
 
-**Backend**
+**Backend & Systems**
 - ASP.NET Core, FastAPI, REST APIs
 
+**AI / Data**
+- PyTorch, TensorFlow, Scikit-learn, LangChain, LangGraph
+
+**Cloud & Infra**
+- Azure, Google Cloud, Docker, Firebase
+
 **Frontend**
-- React, React Native
-
-**Databases & Infra**
-- PostgreSQL, Redis, Docker
-
----
-
-## Selected Projects
-
-### EventLink
-A centralized platform for university event discovery, registration, and notifications.  
-**Tech:** Java, REST APIs
-
-### SquirlSigns Website
-A modern web presence built with a clean TypeScript frontend.
-
-### GHFollowers
-An iOS app built while learning Swift fundamentals and best practices.
+- React, Blazor
 
 ---
 
 ## What I Care About
 
-- Clean architecture
-- Simple solutions over clever ones
-- Understanding systems deeply, not just frameworks
-- Continuous improvement
+- Clean architecture and simple abstractions  
+- Systems that behave predictably in production  
+- Practical AI over hype  
+- Continuous improvement as an engineer  
 
 ---
 
@@ -67,7 +93,5 @@ An iOS app built while learning Swift fundamentals and best practices.
 ---
 
 <div align="center">
-
 <sub>“Gotta Commit Harder.”</sub>
-
 </div>
