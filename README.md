@@ -73,22 +73,13 @@ A desktop application for university event discovery and registration.
 
 **Frontend**
 - React, Blazor
-
----
-
-## What I Care About
-
-- Clean architecture and simple abstractions  
-- Systems that behave predictably in production  
-- Practical AI over hype  
-- Continuous improvement as an engineer  
-
+  
 ---
 
 ## Connect
 
 - GitHub: [@HassanFazal97](https://github.com/HassanFazal97)
-- LinkedIn: *(add when ready)*
+- LinkedIn: [in/fazal-hassan](https://www.linkedin.com/in/fazal-hassan/)
 
 ---
 
